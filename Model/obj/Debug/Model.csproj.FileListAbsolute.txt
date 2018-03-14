@@ -1,0 +1,4 @@
+F:\高级数据库\项目\Model\bin\Debug\Model.dll
+F:\高级数据库\项目\Model\bin\Debug\Model.pdb
+F:\高级数据库\项目\Model\obj\Debug\Model.dll
+F:\高级数据库\项目\Model\obj\Debug\Model.pdb

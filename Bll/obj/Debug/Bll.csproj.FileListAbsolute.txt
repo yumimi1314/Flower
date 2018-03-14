@@ -1,0 +1,9 @@
+F:\高级数据库\项目\Bll\bin\Debug\Bll.dll
+F:\高级数据库\项目\Bll\bin\Debug\Bll.pdb
+F:\高级数据库\项目\Bll\bin\Debug\Dal.dll
+F:\高级数据库\项目\Bll\bin\Debug\Model.dll
+F:\高级数据库\项目\Bll\bin\Debug\Dal.pdb
+F:\高级数据库\项目\Bll\bin\Debug\Model.pdb
+F:\高级数据库\项目\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
+F:\高级数据库\项目\Bll\obj\Debug\Bll.dll
+F:\高级数据库\项目\Bll\obj\Debug\Bll.pdb
